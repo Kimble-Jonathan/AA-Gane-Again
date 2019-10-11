@@ -1,8 +1,8 @@
 # AA-Gane Again
-#How to Play#
+# How to Play #
 Click Fire To Fire
 
-#Changes
+# Changes
 Input for Player Names
 Tracking of Rounds played
 Tracking of Highest Score and last Score
